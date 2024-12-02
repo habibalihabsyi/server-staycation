@@ -20,5 +20,10 @@
     "morgan": "~1.9.1",
     "multer": "^1.4.5-lts.1",
     "startbootstrap-sb-admin-2": "^4.1.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.16.0",
+    "eslint": "^9.16.0",
+    "globals": "^15.13.0"
   }
 }
